@@ -165,7 +165,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("img/professional-young-woman-computer-engineer-using-code-language-development-blurredfice-pretty-female-typing-computer-website-design_116317-1303.jpg") no-repeat center;
+    background: url("professional-young-woman-computer-engineer-using-code-language-development-blurredfice-pretty-female-typing-computer-website-design_116317-1303.jpg") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
@@ -342,7 +342,7 @@ section .title::after{
 /* contact section styling */
 .contact{
      display: flex;
-    background: url("img/images (2).jfif") no-repeat center;
+    background: url("images (2).jfif") no-repeat center;
      height: 100vh;
     color: black;
     min-height: 500px;
